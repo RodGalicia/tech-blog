@@ -4,11 +4,11 @@
     }
     
     h2 {
-        color: #196375;
+        color: #5DB7DE;
     }
     
     h2 a {
-        color: #2d1975;
+        color: #5DB7DE;
     }
     
     nav a {
@@ -21,8 +21,8 @@
     }
     
     nav a:hover {
-        background-color: #6f59ea;
-        color: #401435;
+        background-color: #40c49c;
+        color: #3671ca;
         text-decoration: none;
     }
     
@@ -61,7 +61,7 @@
     
     .site-content {
         flex: 1;
-        background-color: #bbc5f3;
+        background-color: #F1E9DB;
     }
     
     .footer {
