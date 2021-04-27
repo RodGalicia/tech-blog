@@ -86,7 +86,7 @@ THEN I am automatically signed out of the site
 
 ## Live Link
 
-https://bloggytech.herokuapp.com/
+
 
 ## License 
 
