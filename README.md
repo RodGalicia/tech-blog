@@ -82,7 +82,7 @@ THEN I am automatically signed out of the site
 
 ## Mock-Up
 
-![Screenshot_1](https://user-images.githubusercontent.com/40922162/115655679-63cf0480-a2f9-11eb-964c-299eea2d95c4.png)
+N/A
 
 ## Live Link
 
