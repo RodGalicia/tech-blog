@@ -93,5 +93,3 @@ N/A
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
     
 ## Questions
-Email me at cesarorlandocampos@gmail.com
-Find me on GitHub [CesarOCampos](http://github.com/CesarOCampos)
